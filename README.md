@@ -96,7 +96,7 @@
 <details>
 <summary><strong>📂 Semester 5</strong> – Click to expand</summary>
 
-> 🚧 _Notes cooking..._
+- 🌐 [Computer networks lab](https://github.com/Kash1444/Engineering-Notes-Hub/tree/5a21097690271f26fcad4c43646f216afc64246e/CSE/sem%205)
 
 </details>
 
