@@ -33,6 +33,7 @@
 ## 📚 Departments & Notes
 
 ### 👨‍💻 Computer Science & Engineering (CSE)
+ ➡️ [syllabus](https://github.com/Kash1444/Engineering-Notes-Hub/blob/2ef8a2ebec042eed2f9c370216130f696a2dccce/Curriculum-Syllabus-CSE-R23.pdf)
 <details>
 <summary><strong>📂 Semester 1</strong> – Click to expand</summary>
 
