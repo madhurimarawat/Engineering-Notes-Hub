@@ -98,6 +98,7 @@
 <summary><strong>📂 Semester 5</strong> – Click to expand</summary>
 
 - 🌐 [Computer networks lab](https://github.com/Kash1444/Engineering-Notes-Hub/tree/5a21097690271f26fcad4c43646f216afc64246e/CSE/sem%205)
+- ☁️ [Cloud services mangement](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2167d5116811681ca598d5975fdc749cf69907da/CSE/sem%205/Cloud%20services%20mangement)
 
 </details>
 
