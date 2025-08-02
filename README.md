@@ -100,6 +100,7 @@
 - 🌐 [Computer networks lab](https://github.com/Kash1444/Engineering-Notes-Hub/tree/5a21097690271f26fcad4c43646f216afc64246e/CSE/sem%205)
 - ☁️ [Cloud services mangement](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2167d5116811681ca598d5975fdc749cf69907da/CSE/sem%205/Cloud%20services%20mangement)
 - 🤔 [Research Methodology and Intellectual property rights](https://github.com/Kash1444/Engineering-Notes-Hub/tree/896d4761ff3465dc68e558d8f0e9a346852cfe58/CSE/sem%205/Research%20Methodology%20and%20Intellectual%20property%20rights)
+- 💻 [Distributed Computing](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c65e7eb572f9ee100c2b35bfeebbc58d5b070527/CSE/sem%205/Distributed%20Computing)
 
 </details>
 
