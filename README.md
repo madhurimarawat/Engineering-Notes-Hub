@@ -144,6 +144,11 @@
 > 📝 Notes coming soon  
 > 🚧 Let’s build this section together — your contributions matter!
 
+### 💻 CyberSecurity
+
+> 📝 Notes coming soon  
+> 🚧 Let’s build this section together — your contributions matter!
+
 ---
 
 ### ✅ Want to Add Your Notes?
